@@ -19,6 +19,7 @@ The Food Delivery Management System is a database project developed using Micros
 9. Payments
 10. Deliveries
 11. Reviews
+12. Coupons
 
 ## Key Concepts Practiced
 - DDL and DML
